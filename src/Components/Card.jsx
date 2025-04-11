@@ -1,6 +1,6 @@
 // src/components/ui/card.jsx
 import * as React from "react";
-import { cn } from "../Lib/utils.js"; // Assuming you have a utility function for class names
+import { cn } from "../lib/utils.js"; // Assuming you have a utility function for class names
 // import { cn } from "../Lib/utils.js"; 
 // import {cn} from "../Lib/utils.js";
 
