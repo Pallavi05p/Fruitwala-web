@@ -1,11 +1,13 @@
 import { ChevronRightIcon, XIcon } from "lucide-react";
 // import vector from "../../../public/vector.svg";
 import React, { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+// import { motion, AnimatePresence } from "framer-motion";
 // import { Button } from "../../components/Button.tsx";
 // import { Button } from "@/Components/Button";
 import { Card, CardContent } from "../../Components/Card";
 import { Button } from "../../Components/Button";
+import { AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 
 const fruits = [
